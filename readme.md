@@ -6,4 +6,4 @@
 5. Git is a distributed version control system.
 6. Git is free software distributed under the GPL
 7. Git has a mutable index called stage.
-8. Git tracks changes.
+8. Git tracks changes of files.
