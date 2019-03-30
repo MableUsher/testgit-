@@ -8,4 +8,5 @@
 7. Git has a mutable index called stage.
 8. Git tracks changes of files.
 9. Creating a new branch is quick & simple.
+10. this is a cat
 
